@@ -5,7 +5,8 @@ toc: true
 ---
 ## Introduction
 To import orders via CSV, please use the following format:
-code,partner,date,item_sku,item_quantity,ship_name,ship_company,ship_city,ship_zip,ship_state,ship_country,ship_addressOne,ship_addressTwo
+code,partner,date,sku,quantity,name,company,
+city,zip,state,country,addressOne,addressTwo
 
 ## Elements
 * Code (required): the order number in source system
