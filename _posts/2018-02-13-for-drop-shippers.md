@@ -4,7 +4,6 @@ date: 2018-02-13
 toc: true
 ---
 ## Introduction
-
 Welcome to Convictional. Consider this your very own dropshipping hub. Convictional takes all of the pain away from dropshipping by making data sharing and billing happen automatically.
 
 Your wholesale supplier will automatically receive any orders containing their product(s). The wholesale supplier will then be able to drop ship the order to the end consumer on your behalf.
@@ -13,7 +12,11 @@ Your wholesale supplier will automatically receive any orders containing their p
 
 Retailers (dropshippers) must receive an Invite Email from the wholesaler. Please contact your wholesaler if you have not received an Invite Email. It will look like the screenshot below in your email inbox:
 
+![emailInvite](https://github.com/rogerkirkness/convictional-help/blob/master/assets/images/emailInvite.png?raw=true)
+
 The email will contain the following message:
+
+![emailInvite](https://github.com/rogerkirkness/convictional-help/blob/master/assets/images/emailInviteBody.png?raw=true)
 
 When you click the link, you’ll be taken to a page where you will create your account.
 
@@ -21,7 +24,11 @@ When you click the link, you’ll be taken to a page where you will create your 
 
 The link from the email will take you to a signup page where you can create your own account:
 
+![emailInvite](https://github.com/rogerkirkness/convictional-help/blob/master/assets/images/signUp.png?raw=true)
+
 You’ll be able to select the ecommerce platform that currently use by clicking on the dropdown menu under "Platform".
+
+![emailInvite](https://github.com/rogerkirkness/convictional-help/blob/master/assets/images/selectPlatform.png?raw=true)
 
 Select the platform that your store is on (Shopify, BigCommerce, or WooCommerce), and create your account by entering your own email and a unique password. Also, enter in your Shop URL. This is important, as the Shop URL is specific to your store and what we use for integration:
 
@@ -33,21 +40,15 @@ After your click Sign up, you will have to enter in your credit card information
 
 ### For Shopify
 
-If you’re using Shopify, ensure that you have selected Shopify in the Platform dropdown. Then click Connect Shopify. From there, you will go through the standard app install process for a Shopify app. Depending on the wholesaler you are working with, the app may be unlisted, but that is okay and you will still have full control over your information and a secure connection:
+If you’re using Shopify, ensure that you have selected Shopify in the Platform dropdown. Then click Connect Shopify. From there, you will go through the standard app install process for a Shopify app. Depending on the wholesaler you are working with, the app may be unlisted, but that is okay and you will still control persmissions and have a secure connection to us.
 
 ### For WooCommerce
 
-If you’re using WooCommerce, here’s what you will see after you select WooCommerce as your platform in Settings:
-
-You will need to provide the WooCommerce Consumer Key and the Secret Key. These can be easily found in your WooCommerce admin under Settings > API. Here is a good article about how to obtain these keys so that we can access your account: 
-
-https://github.com/woocommerce/woocommerce/wiki/Getting-started-with-the-REST-API#generate-keys
+If you’re using WooCommerce, you will need to provide the WooCommerce Consumer Key and the Secret Key. These can be easily found (or generated) in your WooCommerce admin under Settings > API. Here is the official document explaining how this works: [help document](https://github.com/woocommerce/woocommerce/wiki/Getting-started-with-the-REST-API#generate-keys)
 
 ### For BigCommerce
 
-If you’re using BigCommerce, here’s what you will see after you select BigCommerce as your platform in Settings:
-
-You will need to provide the BigCommerce Company Hash, API Client ID, and API Client Secret. Don’t feel discouraged if you don’t know what these mean! All you need to know is to copy and paste the appropriate pieces of information into the right fields here. These pieces of information be easily found in your BigCommerce admin under … .
+If you’re using BigCommerce, ensure that you have selected BigCommerce in the Platform dropdown and provided the URL for your store to us. Then click Connect BigCommerce. From there, you will go through the standard app install process for a BigCommerce app. You will be able to control persmissions and have a secure connection to us.
 
 ## Step 4: Go Back to Your Ecommerce Platform, Publish Your "Products"
 
@@ -77,7 +78,7 @@ When you receive an sale containing your wholesaler’s product(s), you will nee
 
 The price you charge on your store will be set by the wholesaler (which is the wholesale price + a markup). Your take is the difference.
 
-You have two options for paying your wholesaler. You can define which payment method you want to accept in Settings:
+You have two options for paying your wholesaler. Typically the wholesaler will support one or both but you have to pay with the method they prefer:
 
 ### Pay with Stripe:
 
@@ -91,4 +92,4 @@ With Apruve, your wholesaler will get paid for the order when it has been shippe
 
 Once you set up an account, you can enter in your Apruve Merchant ID and Apruve API Key. 
 
-Note that in order to use Convictional as a retailer, **you must **either have a credit card in the system (via Stripe) or an account set up with Apruve. 
+Note that in order to use Convictional as a retailer, you must either have a credit card in the system (via Stripe) or an account set up with Apruve. 

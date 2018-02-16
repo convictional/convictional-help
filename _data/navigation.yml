@@ -31,6 +31,8 @@ docs:
         url: http://help.convictional.com/pricing-csv-uploads/
   - title: "Ongoing"
     children:
+      - title: "How sync works"
+        url: http://help.convictional.com/how-sync-works/
       - title: "Using logs"
         url: http://help.convictional.com/using-logs/
   - title: "For Partners"

@@ -6,6 +6,8 @@ toc: true
 ## Introduction
 To import partners via CSV, please use the following format:
 
+code, email, price list, relationship
+
 12345,partner@domain.com,My Price List,child
 
 ## Elements

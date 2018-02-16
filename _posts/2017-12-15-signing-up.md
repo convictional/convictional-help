@@ -13,4 +13,9 @@ Thanks for dedicing to join Convictional, we are excited to have you on board. S
 * Platform: select the platform you use.
 * URL/Shop: the URL for your shop admin.
 
+#### Note: using Shopify
+If you use Shopify, we need the URL for your admin. Go to: yoursite.com/admin and copy/paste the URL with the .myshopify.com in it. 
+
+
+## Completion
 Click sign up and we will create an account for you. You will receive an email with some more information on how to get setup.
