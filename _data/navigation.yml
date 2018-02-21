@@ -35,6 +35,10 @@ docs:
         url: http://help.convictional.com/how-sync-works/
       - title: "Using logs"
         url: http://help.convictional.com/using-logs/
+      - title: "Exceptions pricing"
+        url: http://help.convictional.com/exceptions-pricing/
+      - title: "Edit these guides"
+        url: https://github.com/rogerkirkness/convictional-help
   - title: "For Partners"
     children:
       - title: "Quickstart"
