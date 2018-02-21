@@ -6,6 +6,8 @@ toc: true
 ## Introduction
 Convictional automates a lot of things that you and your customers might be used to doing manually. It can be helpful to understand exactly what Convictional is doing with your information in order to make it easier for you to trade online. This is an overview of how the syncing relationships that we maintain work and what you can expect from us.
 
+![syncing]((https://github.com/rogerkirkness/convictional-help/blob/master/assets/images/syncing.png?raw=true))
+
 ## Manual Syncing
 In you want, you can manually trigger the syncing process to run anytime you make a change. Go to Settings and select which job you want to run. You will see a description of what will happen (ie. sync all my products to child shops) and a button to click in order to run it. Depending on API limitations and amount of records involved, it can take some time for information to propagate. Check back in a few minutes to see how things are progressing.
 
