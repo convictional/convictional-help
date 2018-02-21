@@ -1,5 +1,5 @@
 ---
-title: "How Sync Works"
+title: "Exceptions Pricing"
 date: 2018-02-21
 toc: true
 ---
