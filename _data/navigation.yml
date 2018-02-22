@@ -39,6 +39,8 @@ docs:
         url: http://help.convictional.com/exceptions-prices/
       - title: "Edit these guides"
         url: https://github.com/rogerkirkness/convictional-help
+      - title: "System status"
+        url: https://status.convictional.com
   - title: "For Partners"
     children:
       - title: "Quickstart"
