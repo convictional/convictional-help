@@ -16,6 +16,8 @@ Thanks for dedicing to join Convictional, we are excited to have you on board. S
 #### Note: using Shopify
 If you use Shopify, we need the URL for your admin. Go to: yoursite.com/admin and copy/paste the URL with the .myshopify.com in it. 
 
+#### Note: using BigCommerce
+If you use BigCommerce, we need the URL for your admin. Go to: yoursite.com/manage and copy/paste the URL with the .mybigcommerce.com in it.
 
 ## Completion
 Click sign up and we will create an account for you. You will receive an email with some more information on how to get setup.
