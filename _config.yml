@@ -1,4 +1,4 @@
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default"
 
 # Site Settings
 locale                   : "en"
@@ -166,7 +166,6 @@ paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -182,7 +181,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
 
 # Archives
 #  Type
