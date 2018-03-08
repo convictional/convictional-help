@@ -48,7 +48,7 @@ If you’re using WooCommerce, you will need to provide the WooCommerce Consumer
 
 ### For BigCommerce
 
-If you’re using BigCommerce, ensure that you have selected BigCommerce in the Platform dropdown and provided the URL for your store to us. Then click Connect BigCommerce. From there, you will go through the standard app install process for a BigCommerce app. You will be able to control persmissions and have a secure connection to us.
+If you’re using BigCommerce, ensure that you have selected BigCommerce in the Platform dropdown and provided the URL for your store to us. You will need to provide the Client ID, Client Secret and Access Token for an API account so that we can connect with your store and trade with you. To get that information, here is an official document explaining how this works: [help document](https://developer.bigcommerce.com/api/#obtaining-oauth-tokens)
 
 ## Step 4: Go Back to Your Ecommerce Platform, Publish Your "Products"
 
