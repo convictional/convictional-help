@@ -1,6 +1,6 @@
 {
   "name": "convictional-help",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "node": ">= 0.10.0"
   },
@@ -9,7 +9,9 @@
       "uglifyjs assets/js/vendor/jquery/jquery-3.2.1.min.js assets/js/plugins/jquery.fitvids.js assets/js/plugins/jquery.greedy-navigation.js assets/js/plugins/jquery.magnific-popup.js assets/js/plugins/jquery.smooth-scroll.min.js assets/js/_main.js -c -m -o assets/js/main.min.js",
     "watch:js":
       "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
-    "build:js": "npm run uglify && npm run add-banner"
+    "build:js": "npm run uglify && npm run add-banner",
+    "commit": "git add -A && git commit -m \"Bump version to $npm_package_version\" && git push",
+    "code": "npm run commit"
   },
   "devDependencies": {
     "npm-run-all": "^1.7.0",
