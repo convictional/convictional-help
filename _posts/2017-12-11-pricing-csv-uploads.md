@@ -15,13 +15,13 @@ ie. 12345,Price List,2018-01-23,2018-03-15,USD,1.2,120,99,54321,9.99,5,fixed
 * Price List Name: A descriptive name for the price list ('price list')
 * Start date: the first date this pricing should apply ('2018-01-15)
 * End date: last date this pricing should apply on ('2018-03-15')
-* Currency: currency of the shop(s) you want to sync with. (ie. 'CAD')
-* Conversion Rate: conversion rate to apply (ie. '1.2' = prices x 1.2)
-* List Markup: percentage markup (ie. '200' = prices x 2)
-* Rounding: The last two digits you want prices to round up to (ie. '99' = $1.99)
+* Currency: currency of the shop(s) you want to sync with. ('CAD')
+* Conversion Rate: conversion rate to apply ('1.2' = prices x 1.2)
+* List Markup: percentage markup ('200' = prices x 2)
+* Rounding: last two digits you want prices rounded up to ('99' = $1.99)
 * Sku: A variant-specific SKU ('ABC-123')
 * Base Price: base price for that SKU ('9.99')
-* Markup (Amount): in percent (ie. '120') or dollars (ie. '5')
+* Markup (Amount): in percent (ie. '120') or dollars ('5')
 * Markup Type: 'fixed' for dollar markup or 'percent' for percentage
 
 ## Requirements
