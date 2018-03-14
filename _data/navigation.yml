@@ -5,9 +5,9 @@ main:
   - title: "Sign In ➔"
     url: https://app.convictional.com
 docs:
-  - title: "Getting Started"
+  - title: "Get started"
     children:
-      - title: "Quickstart"
+      - title: "Quick start"
         url: http://help.convictional.com/quick-start/
       - title: "Signing up"
         url: http://help.convictional.com/signing-up/
@@ -15,11 +15,11 @@ docs:
         url: http://help.convictional.com/configuration/
       - title: "Inviting partners"
         url: http://help.convictional.com/inviting-partners/
-      - title: "Setup card-on-file payments"
+      - title: "Card-on-file payments"
         url: http://help.convictional.com/card-on-file-stripe/
-      - title: "Setup terms payments"
+      - title: "Terms payments"
         url: http://help.convictional.com/connecting-apruve/
-  - title: "Importing Records"
+  - title: "Importing"
     children:
       - title: "Importing orders"
         url: http://help.convictional.com/importing-orders/
@@ -37,15 +37,15 @@ docs:
         url: http://help.convictional.com/using-logs/
       - title: "Exceptions pricing"
         url: http://help.convictional.com/exceptions-prices/
-      - title: "Edit these guides"
-        url: https://github.com/rogerkirkness/convictional-help
-      - title: "System status"
-        url: https://status.convictional.com
-  - title: "For Partners"
+  - title: "Partners"
     children:
-      - title: "Quickstart"
+      - title: "Quick start"
         url: http://help.convictional.com/for-drop-shippers/
-  - title: "For Developers"
+  - title: "Developers"
     children:
-      - title: "API Documentation"
+      - title: "API documentation"
         url: http://docs.convictional.com/
+  - title: "Community"
+    children:
+      - title: "Edit these guides"
+        url: https://github.com/convictional/convictional-help/tree/master/_posts
