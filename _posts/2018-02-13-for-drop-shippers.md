@@ -44,7 +44,9 @@ If you’re using Shopify, ensure that you have selected Shopify in the Platform
 
 ### For WooCommerce
 
-If you’re using WooCommerce, you will need to provide the WooCommerce Consumer Key and the Secret Key. These can be easily found (or generated) in your WooCommerce admin under Settings > API. Here is the official document explaining how this works: [help document](https://github.com/woocommerce/woocommerce/wiki/Getting-started-with-the-REST-API#generate-keys)
+If you’re using WooCommerce, you will need to provide the WooCommerce Consumer Key and the Secret Key. These can be easily found (or generated) in your WooCommerce admin under Settings > API. Here is the [WooCommerce documentation explaining how this works](https://github.com/woocommerce/woocommerce/wiki/Getting-started-with-the-REST-API#generate-keys).
+
+If you would like to get tracking information to share with your customers into your WooCommerce shop you will need to purchase and install the [WooCommerce Shipment Tracking plugin](https://docs.woocommerce.com/document/shipment-tracking/).
 
 ### For BigCommerce
 

@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.6 - 2018-03-20
+
+* Updating the quick start for drop shippers
+* Updating how cache invalidation works
+* Updating the home page to remove newest posts
+
 ## 1.0.5 - 2018-03-18
 
 * Adding support for service workers
