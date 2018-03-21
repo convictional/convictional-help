@@ -9,7 +9,8 @@ var urls = [
   '/'
 ]
 
-var currentCacheName = 'custom-sw-cache-' + new Date()
+var date = new Date()
+var currentCacheName = 'custom-sw-cache-' + String(date)
 
 self.addEventListener('install', (event) => {
   self.skipWaiting()
