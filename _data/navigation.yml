@@ -8,43 +8,45 @@ docs:
   - title: "Get started"
     children:
       - title: "Quick start"
-        url: http://help.convictional.com/quick-start/
+        url: https://help.convictional.com/quick-start/
       - title: "Signing up"
-        url: http://help.convictional.com/signing-up/
+        url: https://help.convictional.com/signing-up/
       - title: "Configuration"
-        url: http://help.convictional.com/configuration/
+        url: https://help.convictional.com/configuration/
       - title: "Inviting partners"
-        url: http://help.convictional.com/inviting-partners/
+        url: https://help.convictional.com/inviting-partners/
       - title: "Card-on-file payments"
-        url: http://help.convictional.com/card-on-file-stripe/
+        url: https://help.convictional.com/card-on-file-stripe/
       - title: "Terms payments"
-        url: http://help.convictional.com/connecting-apruve/
+        url: https://help.convictional.com/connecting-apruve/
   - title: "Importing"
     children:
       - title: "Importing orders"
-        url: http://help.convictional.com/importing-orders/
+        url: https://help.convictional.com/importing-orders/
       - title: "Importing products"
-        url: http://help.convictional.com/products-csv-uploads/
+        url: https://help.convictional.com/products-csv-uploads/
       - title: "Importing partners"
-        url: http://help.convictional.com/partners-csv-uploads/
+        url: https://help.convictional.com/partners-csv-uploads/
       - title: "Importing pricing"
-        url: http://help.convictional.com/pricing-csv-uploads/
+        url: https://help.convictional.com/pricing-csv-uploads/
   - title: "Ongoing"
     children:
       - title: "How sync works"
-        url: http://help.convictional.com/how-sync-works/
+        url: https://help.convictional.com/how-sync-works/
+      - title: "Our security"
+        url: https://help.convictional.com/security/
       - title: "Using logs"
-        url: http://help.convictional.com/using-logs/
+        url: https://help.convictional.com/using-logs/
       - title: "Exceptions pricing"
-        url: http://help.convictional.com/exceptions-prices/
+        url: https://help.convictional.com/exceptions-prices/
   - title: "Partners"
     children:
       - title: "Quick start"
-        url: http://help.convictional.com/for-drop-shippers/
+        url: https://help.convictional.com/for-drop-shippers/
   - title: "Developers"
     children:
       - title: "API documentation"
-        url: http://docs.convictional.com/
+        url: https://docs.convictional.com/
   - title: "Community"
     children:
       - title: "Edit these guides"

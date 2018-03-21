@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.7 - 2018-03-21
+
+* Post about security
+
 ## 1.0.6 - 2018-03-20
 
 * Updating the quick start for drop shippers
