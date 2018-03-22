@@ -8,7 +8,7 @@ docs:
   - title: "Get started"
     children:
       - title: "Quick start"
-        url: https://help.convictional.com/quick-start/
+        url: https://help.convictional.com/
       - title: "Signing up"
         url: https://help.convictional.com/signing-up/
       - title: "Configuration"

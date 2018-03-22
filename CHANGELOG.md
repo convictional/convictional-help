@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.8 - 2018-03-22
+
+* Creating a new front page
+
 ## 1.0.7 - 2018-03-21
 
 * Post about security
