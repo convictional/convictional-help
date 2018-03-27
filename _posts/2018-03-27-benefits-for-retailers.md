@@ -27,11 +27,11 @@ To sum it up: you get an order → your customer receives it (without you ever h
 
 ## How We Do It
 
-Integrate With One Click: Connecting Convictional to your ecommerce platform is as easy to install as a smartphone app.
+* Integrate With One Click: Connecting Convictional to your ecommerce platform is as easy to install as a smartphone app.
 
-Start Selecting: Now that you’re synced, you’ll have your supplier’s entire product catalogue to choose from. We’ll route all your selected products directly to the backend of your ecommerce platform so you can start selling.
+* Start Selecting: Now that you’re synced, you’ll have your supplier’s entire product catalogue to choose from. We’ll route all your selected products directly to the backend of your ecommerce platform so you can start selling.
 
-Rest Assured: We know your brand reputation is important to you and want your customers to be delighted after every order. That’s why we automated syncing to alert you when it counts and give you all the information that you need.
+* Rest Assured: We know your brand reputation is important to you and want your customers to be delighted after every order. That’s why we automated syncing to alert you when it counts and give you all the information that you need.
 
 Check out what we sync and when below:
 
