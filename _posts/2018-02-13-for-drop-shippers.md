@@ -2,6 +2,7 @@
 title: "Quickstart for Partners"
 date: 2018-02-13
 toc: true
+author: Chris Grouchy
 ---
 ## Introduction
 Welcome to Convictional. Consider this your very own dropshipping hub. Convictional takes all of the pain away from dropshipping by making data sharing and billing happen automatically.

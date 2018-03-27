@@ -2,6 +2,7 @@
 title: "How Sync Works"
 date: 2018-02-16
 toc: true
+author: Roger Kirkness
 ---
 ## Introduction
 Convictional automates a lot of things that you and your customers might be used to doing manually. It can be helpful to understand exactly what Convictional is doing with your information in order to make it easier for you to trade online. This is an overview of how the syncing relationships that we maintain work and what you can expect from us.

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.9 - 2018-03-27
+
+* Adding: benefits for retailers post by Izzy
+
 ## 1.0.8 - 2018-03-22
 
 * Creating a new front page
