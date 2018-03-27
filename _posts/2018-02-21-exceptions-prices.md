@@ -2,6 +2,7 @@
 title: "Exceptions Pricing"
 date: 2018-02-21
 toc: true
+author: Roger Kirkness
 ---
 # Introduction
 Convictional allows you to setup exceptions to your price lists. This makes it easier to manage any non-standard pricing for a particular trading partner or group of trading partners. Instead of changing your base prices for the duration of an event, you can setup an additional price list called an exception list that will only sync with your partner when active.

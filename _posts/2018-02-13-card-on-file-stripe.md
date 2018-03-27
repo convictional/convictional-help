@@ -2,6 +2,7 @@
 title: "Setup card-on-file payments"
 date: 2018-02-13
 toc: true
+author: Roger Kirkness
 ---
 ## Introduction
 Convictional allows a wholesaler to accept payments a few different ways. If you want your customers to be able to pay on terms, you will need Apruve. If you just want to bill a credit card on file, which tends to have higher fees, you can do that too with Stripe.

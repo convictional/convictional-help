@@ -2,6 +2,7 @@
 title: "Products CSV Uploads"
 date: 2018-01-31
 toc: true
+author: Roger Kirkness
 ---
 ## Introduction
 To import products via CSV, please use the following format:

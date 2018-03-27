@@ -2,6 +2,7 @@
 title: "Configuration"
 date: 2018-02-16
 toc: true
+author: Roger Kirkness
 ---
 ## Introduction
 This guide is intended to make it as easy as possible to configure Convictional the way you would like it to work.

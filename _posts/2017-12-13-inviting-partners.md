@@ -2,6 +2,7 @@
 title: "Inviting Partners"
 date: 2018-01-31
 toc: true
+author: Roger Kirkness
 ---
 ## Introduction
 This document helps you understand how to invite your trading partners to connect with you and start trading.

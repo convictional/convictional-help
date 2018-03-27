@@ -2,6 +2,7 @@
 title: "Using Logs"
 date: 2018-02-13
 toc: true
+author: Roger Kirkness
 ---
 ## Introduction
 Convictional logs everything we do so that you can reference it if you need to prove something did or did not happen in the system. Understanding logs is important to make sure you and your trading partners have a good experience using the Convictional platform.

@@ -2,6 +2,7 @@
 title: "Connecting Apruve for Payments"
 date: 2018-01-05
 toc: true
+author: Roger Kirkness
 ---
 ## Introduction
 Convictional allows you to automate payments from your trading partners through our integration with Apruve. Apruve allows you to get paid when you ship but your customer gets a once monthly invoice to pay via ACH, cheque or other means. It usually ends up costing less in fees as well.
