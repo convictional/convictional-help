@@ -227,8 +227,8 @@ defaults:
       sidebar:
         nav: "docs"
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: false
       share: false
-      related: false
+      related: true

@@ -41,6 +41,8 @@ docs:
         url: https://help.convictional.com/exceptions-prices/
   - title: "Partners"
     children:
+      - title: "Benefits for partners"
+        url: https://help.convictional.com/benefits-for-retailers/
       - title: "Quick start"
         url: https://help.convictional.com/for-drop-shippers/
   - title: "Developers"
