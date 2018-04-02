@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.0 - 2018-04-02
+
+* Updating naviation to consolidate items
+
 ## 1.0.9 - 2018-03-27
 
 * Adding: benefits for retailers post by Izzy
