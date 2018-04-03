@@ -31,4 +31,4 @@ ie. 12345,Price List,2018-01-23,2018-03-15,USD,1.2,120,99,54321,9.99,5,fixed
 * Leave empty spaces for optional fields (ie. ",,,")
 
 ## Example
-Here is [a link to an example file](https://docs.google.com/spreadsheets/d/1adlpyOlVsCVIxEsWbHAsWaSQ6V8aTkTXV0XvSa-yq2Y/edit?usp=sharing). Remember not to include headers in your real upload.
+Here is [a link to an example file](https://docs.google.com/spreadsheets/d/1adlpyOlVsCVIxEsWbHAsWaSQ6V8aTkTXV0XvSa-yq2Y/edit?usp=sharing). Remember not to include headers.
