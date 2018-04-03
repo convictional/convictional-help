@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.1 - 2018-04-02
+
+* Adding an example file to pricing CSV upload article
+
 ## 1.1.0 - 2018-04-02
 
 * Updating naviation to consolidate items
