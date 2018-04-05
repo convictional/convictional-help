@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.2 - 2018-04-05
+
+* Adding a section to how sync works on oversell protection
+
 ## 1.1.1 - 2018-04-02
 
 * Adding an example file to pricing CSV upload article
