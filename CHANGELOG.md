@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.3 - 2018-04-12
+
+* Adding deleting your account.
+
 ## 1.1.2 - 2018-04-05
 
 * Adding a section to how sync works on oversell protection
