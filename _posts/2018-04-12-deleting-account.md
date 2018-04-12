@@ -6,7 +6,7 @@ author: Roger Kirkness
 ---
 # Introduction
 
-When you use Convictional to trade with your partners, we respect that the data we are responsible for is yours. You own your data and what happens to it is ultimately up to you.
+When you use Convictional to trade with your partners, we respect that the data we are responsible for is yours. You own your data and what happens to it is ultimately up to you. This article discusses how to delete your account and associated data.
 
 ## Our Approach
 
