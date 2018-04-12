@@ -41,6 +41,8 @@ docs:
         url: https://help.convictional.com/exceptions-prices/
       - title: "API documentation"
         url: https://docs.convictional.com/
+      - title: "Deleting account"
+        url: https://help.convictional.com/deleting-account/
       - title: "Edit these guides"
         url: https://github.com/convictional/convictional-help/tree/master/_posts
   - title: "Partners"
