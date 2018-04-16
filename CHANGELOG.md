@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.4 - 2018-04-16
+
+* Adding: connected 3dCart.
+
 ## 1.1.3 - 2018-04-12
 
 * Adding deleting your account.
