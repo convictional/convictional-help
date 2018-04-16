@@ -29,6 +29,8 @@ docs:
         url: https://help.convictional.com/partners-csv-uploads/
       - title: "Importing pricing"
         url: https://help.convictional.com/pricing-csv-uploads/
+      - title: "Connecting: 3dCart"
+        url: https://help.convictional.com/connecting-3dcart/
   - title: "Ongoing"
     children:
       - title: "How sync works"
