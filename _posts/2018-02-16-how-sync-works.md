@@ -40,7 +40,9 @@ Products are then synced with your trading partners once every eight hours. All 
 
 Sometimes you want to force your customer to accept product overwrites, and sometimes you want to leave it to them to merchandise their own products. In Convictional, you can control whether to overwrite product information for existing products by setting "Force overwrite products?" for each partner. 
 
-For partners that are in a position to merchandise your products themselves, set this option to false so that they can control products once uploaded. If you are working with a very small partner whose business is marketing funnel driven and wants hands-off merchandising, set it to true. We will continue to sync pricing and inventory updates once an hour. All other fields will be left intact. We will continue to sync new products, but they will only sync in entirety once.
+For partners that are in a position to merchandise your products themselves, set this option to false so that they can control products once uploaded. If you are working with a very small partner whose business is marketing funnel driven and wants hands-off merchandising, set it to true.
+
+Convictional will continue to sync pricing and inventory updates once an hour via "Push inventory to partners?". All other fields will be left intact after initial setup. We will continue to sync new products, but they will only sync in entirety once.
 
 ## Product Updates
 
