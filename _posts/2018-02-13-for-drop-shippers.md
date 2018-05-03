@@ -57,11 +57,13 @@ If you’re using BigCommerce, ensure that you have selected BigCommerce in the 
 
 Once you’ve successfully connected your store, your wholesaler’s products will appear in your ecommerce store admin in the product section. Don’t worry, they will not be published yet.
 
-Two quick things to note at this stage:  
+Two quick things to note at this stage:
 
 1. Products will be remain **unpublished** and will not be visible to consumers until you mark them as visible in your ecommerce store admin. You have full control over their visibility. They are not shoppable until you publish them. 
 
-2. It may take up to an hour for products to appear in your admin. So don’t worry if they don’t appear immediately. If you don’t see the products in your ecommerce store admin, contact your wholesaler and they can "run a sync" to your store at anytime. 
+2. It may take up to an hour for products to appear in your admin. So don’t worry if they don’t appear immediately. If you don’t see the products in your ecommerce store admin, contact your wholesaler and they can "run a sync" to your store at anytime.
+
+3. If you would like to merchandise the products yourself (change descriptions, update SEO, switch out photos, or anything else) and would rather your partner not overwrite your work, just ask your wholesaler. They can either continue to feed updates to existing products, or just sync them once.
 
 ## Step 5: Accept Orders
 

@@ -13,10 +13,13 @@ To invite a partner, you will need their email address and a price list to assig
 ![createPartner](https://github.com/rogerkirkness/convictional-help/blob/master/assets/images/createPartner.png?raw=true)
 
 #### Fields
-* Code: a code for the partner, enter anything you want here
+* Code: a code for the partner, enter anything you want
 * Email: the email address for your partner to receive the invite
 * Price List: the price list you want to assign your partner
 * Relationship: is this a drop shipping partner? Use 'child'
+* Billing: do you want to require a credit card on sign up to bill?
+* Force: do you want to force overwrite product information or let them manage it after loading?
+* Syncing: do you want to allow them to sync your products?
 
 ### Step Two
 Now that you have created a partner, the next step is to invite them. Each partner has a link you can click to invite them:

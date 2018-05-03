@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.4.8 - 2018-05-03
+
+* Adding information about force overwrite to docs.
+* Bringing up to semver parity with other services.
+
 ## 1.1.4 - 2018-04-16
 
 * Adding: connected 3dCart.
