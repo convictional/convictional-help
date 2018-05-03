@@ -36,6 +36,10 @@ Product catalogs sync from your system of record to our system every eight hours
 
 Products are then synced with your trading partners once every eight hours. All new products will be added in an "unpublished" state to avoid them from showing up on the front-end of your customers store without their express permission. Products are updated with all the current information including current pricing, inventory, SKUs, titles, descriptions and more.
 
+### Force overwrite products?
+
+Sometimes you want to force your customer to accept product overwrites, and sometimes you want to leave it to them to merchandise their own products. In Convictional, you can control whether to overwrite product information for existing products by setting "Force overwrite products?" on a partner-specific basis. For partners that are more sophisticated and in a position to merchandise your products themselves, set this option to false so that they can control products once uploaded. If you are working with a very small partner whose business is marketing funnel driven and wants hands-off merchandise, set it to true. We will continue to sync pricing and inventory updates once an hour. All other fields will be left intact.
+
 ## Product Updates
 
 **Wholesaler > Convictional > Retailer**
