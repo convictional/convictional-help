@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.5.3 - 2018-05-23
+
+* Refactoring to remove partner "code" field from articles.
+
 ## 1.4.8 - 2018-05-03
 
 * Adding information about force overwrite to docs.
