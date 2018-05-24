@@ -10,7 +10,7 @@ Convictional automates a lot of things that you and your customers might be used
 ![syncing](https://github.com/rogerkirkness/convictional-help/blob/master/assets/images/syncing.png?raw=true)
 
 ## Manual Syncing
-In you want, you can manually trigger the syncing process to run anytime you make a change. Go to Settings and select which job you want to run. You will see a description of what will happen (ie. sync all my products to child shops) and a button to click in order to run it. Depending on API limitations and amount of records involved, it can take some time for information to propagate. Check back in a few minutes to see how things are progressing.
+If you want, you can manually trigger the syncing process to run anytime you make a change. Go to Settings and select which job you want to run. You will see a description of what will happen (ie. sync all my products to child shops) and a button to click in order to run it. Depending on API limitations and amount of records involved, it can take some time for information to propagate. Check back in a few minutes to see how things are progressing.
 
 ## Orders
 
