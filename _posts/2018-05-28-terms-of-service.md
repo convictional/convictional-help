@@ -4,7 +4,7 @@ date: 2018-05-28
 toc: true
 author: Roger Kirkness
 ---
-Convictional is a provider of B2B automation services and software. The platform is limited by the functionality that is available, versioned in our API documentation by date. We make no warranties about what is included in the Convictional service unless we explicitly provide a scope of work to you as part of a fixed price quote for development. Beyond that, everything you see in the application, in our documentation and on our website is the scope.
+Convictional is a provider of B2B automation services and software. The platform is limited by the functionality that is available, versioned in our API documentation by date. We make no warranties about what is included in the Convictional service unless we explicitly provide a scope of work to you as part of a fixed price quote for development. Beyond that, everything you see in the application, in our documentation and on our website is the scope. By using our application, you agree to be bound by these terms of service.
 
 ## Services
 
