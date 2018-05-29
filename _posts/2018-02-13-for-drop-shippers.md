@@ -53,6 +53,9 @@ If you would like to get tracking information to share with your customers into 
 
 If you’re using BigCommerce, ensure that you have selected BigCommerce in the Platform dropdown and provided the URL for your store to us. You will need to provide the Client ID, Client Secret and Access Token for an API account so that we can connect with your store and trade with you. To get that information, here is an official document explaining how this works: [help document](https://developer.bigcommerce.com/api/#obtaining-oauth-tokens)
 
+Convictional needs permissions from you when you create your API Account. Login to your BigCommerce store, go to Advanced Settings > API Accounts. Create a new API Account and provide the following permissions:
+![bigcommerce-permissions](https://github.com/rogerkirkness/convictional-help/blob/master/assets/images/bigcommerce-permissions.png?raw=true)
+
 ## Step 4: Go Back to Your Ecommerce Platform, Publish Your "Products"
 
 Once you’ve successfully connected your store, your wholesaler’s products will appear in your ecommerce store admin in the product section. Don’t worry, they will not be published yet.

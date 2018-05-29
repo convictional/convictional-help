@@ -6,6 +6,10 @@ To visit the help documentation, please go [here](http://help.convictional.com).
 
 ## Changelog
 
+## 1.5.5 - 2018-05-29
+
+* Adding BigCommerce permissions to the help docs.
+
 ## 1.5.4 - 2018-05-26
 
 * Removing all bulk delete endpoints.
