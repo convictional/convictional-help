@@ -9,6 +9,7 @@ To visit the help documentation, please go [here](http://help.convictional.com).
 ## 1.5.5 - 2018-05-29
 
 * Adding BigCommerce permissions to the help docs.
+* Changing the title to "Help | B2B Integration Platform"
 
 ## 1.5.4 - 2018-05-26
 
