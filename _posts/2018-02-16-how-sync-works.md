@@ -36,6 +36,10 @@ Product catalogs sync from your system of record to our system every eight hours
 
 Products are then synced with your trading partners once every eight hours. All new products will be added in an "unpublished" state to avoid them from showing up on the front-end of your customers store without their express permission. Products are updated with all the current information including current pricing, inventory, SKUs, titles, descriptions and more.
 
+### Get SKU by ID
+
+There is an optional way to make onboarding easier for partners who already sell your products. If your partner is on a platform with an API, we can go out and programmatically pull the ID for each of you products by SKU. This way, we can sync with the existing stock of an item instead of having to create a duplicate in the back end of the partner shop. Turn it on or off as you need under Syncing.
+
 ### Force overwrite products?
 
 Sometimes you want to force your customer to accept product overwrites, and sometimes you want to leave it to them to merchandise their own products. In Convictional, you can control whether to overwrite product information for existing products by setting "Force overwrite products?" for each partner. 
