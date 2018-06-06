@@ -1,13 +1,14 @@
-# main links
 main:
-  - title: "Support"
+  - title: "Email Support"
     url: https://convictional.com/pages/contact
   - title: "Terms of Service"
     url: https://help.convictional.com/terms-of-service
+  - title: "API Documentation"
+    url: https://docs.convictional.com/
   - title: "Sign In ➔"
     url: https://app.convictional.com
 docs:
-  - title: "Get started"
+  - title: "For Suppliers"
     children:
       - title: "Quick start"
         url: https://help.convictional.com/
@@ -21,7 +22,21 @@ docs:
         url: https://help.convictional.com/card-on-file-stripe/
       - title: "Terms payments"
         url: https://help.convictional.com/connecting-apruve/
-  - title: "Importing data"
+      - title: "How sync works"
+        url: https://help.convictional.com/how-sync-works/
+      - title: "Our security"
+        url: https://help.convictional.com/security/
+      - title: "Using logs"
+        url: https://help.convictional.com/using-logs/
+      - title: "Exceptions pricing"
+        url: https://help.convictional.com/exceptions-prices/
+  - title: "For Retailers"
+    children:
+      - title: "Benefits for partners"
+        url: https://help.convictional.com/benefits-for-retailers/
+      - title: "Quick start"
+        url: https://help.convictional.com/for-drop-shippers/
+  - title: "Importing Data"
     children:
       - title: "Importing orders"
         url: https://help.convictional.com/importing-orders/
@@ -33,25 +48,3 @@ docs:
         url: https://help.convictional.com/pricing-csv-uploads/
       - title: "Connecting: 3dCart"
         url: https://help.convictional.com/connecting-3dcart/
-  - title: "Ongoing"
-    children:
-      - title: "How sync works"
-        url: https://help.convictional.com/how-sync-works/
-      - title: "Our security"
-        url: https://help.convictional.com/security/
-      - title: "Using logs"
-        url: https://help.convictional.com/using-logs/
-      - title: "Exceptions pricing"
-        url: https://help.convictional.com/exceptions-prices/
-      - title: "API documentation"
-        url: https://docs.convictional.com/
-      - title: "Deleting account"
-        url: https://help.convictional.com/deleting-account/
-      - title: "Edit these guides"
-        url: https://github.com/convictional/convictional-help/tree/master/_posts
-  - title: "Partners"
-    children:
-      - title: "Benefits for partners"
-        url: https://help.convictional.com/benefits-for-retailers/
-      - title: "Quick start"
-        url: https://help.convictional.com/for-drop-shippers/
