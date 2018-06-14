@@ -6,6 +6,10 @@ To visit the help documentation, please go [here](http://help.convictional.com).
 
 ## Changelog
 
+## 1.6.0 - 2018-06-14
+
+* Merging pricing guides together.
+
 ## 1.5.6 - 2018-06-04
 
 * Adding information about getSkyById
