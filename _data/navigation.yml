@@ -38,7 +38,7 @@ docs:
         url: https://help.convictional.com/products-csv-uploads/
       - title: "Importing partners"
         url: https://help.convictional.com/partners-csv-uploads/
-        - title: "For Retailers"
+  - title: "For Retailers"
     children:
       - title: "Benefits for partners"
         url: https://help.convictional.com/benefits-for-retailers/
