@@ -1,9 +1,9 @@
 main:
-  - title: "Email Support"
+  - title: "Support"
     url: https://convictional.com/pages/contact
-  - title: "Terms of Service"
+  - title: "Terms"
     url: https://help.convictional.com/terms-of-service
-  - title: "API Documentation"
+  - title: "API"
     url: https://docs.convictional.com/
   - title: "Sign In ➔"
     url: https://app.convictional.com
@@ -28,23 +28,19 @@ docs:
         url: https://help.convictional.com/security/
       - title: "Using logs"
         url: https://help.convictional.com/using-logs/
-      - title: "Exceptions pricing"
-        url: https://help.convictional.com/exceptions-prices/
-  - title: "For Retailers"
-    children:
-      - title: "Benefits for partners"
-        url: https://help.convictional.com/benefits-for-retailers/
-      - title: "Quick start"
-        url: https://help.convictional.com/for-drop-shippers/
-  - title: "Importing Data"
-    children:
+      - title: "Pricing Guide"
+        url: https://help.convictional.com/pricing-guide/
+      - title: "Connecting: 3dCart"
+        url: https://help.convictional.com/connecting-3dcart/
       - title: "Importing orders"
         url: https://help.convictional.com/importing-orders/
       - title: "Importing products"
         url: https://help.convictional.com/products-csv-uploads/
       - title: "Importing partners"
         url: https://help.convictional.com/partners-csv-uploads/
-      - title: "Importing pricing"
-        url: https://help.convictional.com/pricing-csv-uploads/
-      - title: "Connecting: 3dCart"
-        url: https://help.convictional.com/connecting-3dcart/
+        - title: "For Retailers"
+    children:
+      - title: "Benefits for partners"
+        url: https://help.convictional.com/benefits-for-retailers/
+      - title: "Quick start"
+        url: https://help.convictional.com/for-drop-shippers/
