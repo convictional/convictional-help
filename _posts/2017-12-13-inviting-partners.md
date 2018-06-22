@@ -34,3 +34,7 @@ Now that you have created a partner, the next step is to invite them. Each partn
 We will send them an email with a link to sign up. You can see the status of their invitation and whether the invite has been sent on their record.
 
 We recommend that you only activate partners after they are signed up and connected with you. This allows you to ensure you have all the information you need to start trading with them.
+
+#### Notes
+
+* We keep a lookup of how your item codes match to your partner. You can reset this at any time in your admin. If you sync with a partner and it really goes badly, delete the products, reset and try again.
