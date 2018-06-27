@@ -1,10 +1,10 @@
 main:
+  - title: "Blog"
+    url: https://blog.convictional.com
   - title: "Support"
-    url: https://convictional.com/pages/contact
-  - title: "Terms"
-    url: https://help.convictional.com/terms-of-service
-  - title: "API"
-    url: https://docs.convictional.com/
+    url: https://help.convictional.com
+  - title: "Developers"
+    url: https://docs.convictional.com
   - title: "Sign In ➔"
     url: https://app.convictional.com
 docs:
