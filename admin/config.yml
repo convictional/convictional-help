@@ -1,0 +1,16 @@
+backend:
+  name: github
+  repo: convictional/convictional-help
+publish_mode: editorial_workflow
+media_folder: "assets/images"
+collections:
+  - name: "post"
+    label: "Posts"
+    folder: "_posts/"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Table of Contents", name: "toc", widget: "hidden", default: "True"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Author", name: "author", widget: "string"}
