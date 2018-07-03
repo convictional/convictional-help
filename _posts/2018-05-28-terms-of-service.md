@@ -18,6 +18,10 @@ Payment terms are negotiated on a customer-specific basis. Generally you will ha
 
 If you violate our terms of service (by not paying or doing something abusive like sending spam emails) we reserve the right to cut off access to your account. We will not delete your data except in extreme cases where that would be necessary to protect other customers (ie. sending so many spam emails our database is affected). Worst case scenario we will stop giving you access to your account until we have had a chance to talk to you and work it out.
 
+## Privacy
+
+We collect various information from our service in order to provide you with what you need. We try to collect as little as possible. No third-party services are used to track usage of our application except for logs that are stored in AWS. We only touch information relating to your business when interacting with partner stores, and only retain it for as long as we need to in order to sync with you. We don't use your information for any other purpose -- we don't data mine it or even query it unless you ask. We retain data as long as you don't delete it with the exception of logs which last a month. Please get in touch with us if you have any questions on this: [email support](mailto:support@convictional.com).
+
 ## Agreement Terms
 
 If you are on an annual agreement and there is time left in your agreement with us, you have to pay out the outstanding months in order to exit the agreement. Most of the time you already paid up-front for the first year, in which case you can simply notify us you no longer want to use the service. If you wish, you can delete your account at any time (which will permanently delete *all* of your company data) on the Settings page in the Convictional admin. This does not mean you do not need to pay out your contract is a balance is owning, but it does give you control of whether your data is in our service and whether we can access your systems.
