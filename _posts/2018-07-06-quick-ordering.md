@@ -6,13 +6,17 @@ author: Roger Kirkness
 ---
 ## Introduction
 
-Convictional offers an easy way for your partners to order from you via email. The format has to be just right in order for the Convictional Bot to understand what your partner wants on their order.
+Convictional offers an easy way for your partners to order from you via email. The format has to be just right in order for the Convictional Bot to understand what your partner wants on their order. This article covers how it works.
 
 ## Setup
 
-There are a few ways to approach setting up quick ordering. You can have your customers order using our email: orders@in.convictional.com or you can forward an email at your domain to that email (ie. forward orders@domain.com -> orders@in.convictional.com).
+You can have your customers order using our email: orders@in.convictional.com or you can forward an email at your domain to that email (ie. forward orders@domain.com -> orders@in.convictional.com). Which one you use is up to you.
+
+> You can even use your existing orders email. Anything not formatted correctly or from someone not connected to your Convictional account will just get dropped.
 
 ## Format
+
+> The subject line of the email has to be your Convictional companyId.
 
 The format for quick orders contains two major sections: addresses and items. To start a section, type "*" then the name in block caps. To end it, type a forward slash ("/") and then the name in block caps.
 
@@ -23,7 +27,7 @@ The format for quick orders contains two major sections: addresses and items. To
 /ADDRESS
 ```
 
-To enter a SKU, enter the SKU, an equals sign and the quantity you want like this:
+To enter a SKU, enter the SKU, an equals sign and the quantity you want:
 
 ```
 *ITEMS
@@ -33,7 +37,7 @@ SKU567=4
 /ITEMS
 ```
 
-Here is a full list of optional attributes for the address section (spaces allowed):
+To enter an address, enter the attribute, an equals sign and a value:
 
 ```
 *ADDRESS
@@ -51,11 +55,10 @@ extra=(second address line)
 /ADDRESS
 ```
 
-The subject line has to be your Convictional companyId.
-
 ## Example
 
 **To**: orders@in.convictional.com
+
 **Subject**: convictional-wholesale
 ```
 *ITEMS
@@ -79,6 +82,6 @@ extra: #101
 /ADDRESS
 ```
 
-## Support
+## Support & Feedback
 
 We support quick ordering. If you have any questions or want to setup blind quick ordering (ie. an email at your domain) and want some help, get in touch.
