@@ -4,7 +4,6 @@ date: 2018-07-06
 toc: true
 author: Roger Kirkness
 ---
-
 ## Introduction
 
 Convictional offers an easy way for your partners to order from you via email. The format has to be just right in order for the Convictional Bot to understand what your partner wants.
@@ -15,14 +14,20 @@ There are a few ways to approach setting up quick ordering. You can have your cu
 
 ## Format
 
-The format for quick orders contains two major sections: addresses and items. The goal is to easily get orders into your system, not necessarily give you all the functionality you are used to when it comes to ordering. Think speed, where you can clarify (or don't need) details later.
+The format for quick orders contains two major sections: addresses and items.
 
-* Type "*ITEMS" to start entering items in the email. Type "/ITEMS" to end the items section.
-* Type "*ADDRESS" to start entering the address. Type "/ADDRESS" to end the address section.
+* Type "*ITEMS" to start item section. Type "/ITEMS" to end the items section.
+* Type "*ADDRESS" to enter address. Type "/ADDRESS" to end the address section.
 
-Each item and address attribute are a key/value pair separated by an equals sign. You have to use the supplier's SKU and then equals the quantity. For example: SKU123=3 would order 3 units of SKU123.
+To enter a SKU, enter the SKU, an equals sign and the quantity you want.
 
-Each address attribute has a name, to keep it simple. Here's the full list of options:
+```
+SKU123=7
+SKU432=2
+SKU567=4
+```
+
+Here is a full list of possible attributes for the address section:
 
 * name: the name of the company or person ordering
 * company: if you want, a company name for the address
@@ -37,16 +42,15 @@ Each address attribute has a name, to keep it simple. Here's the full list of op
 * address: the first address line
 * extra: the second address line
 
-As long as their email follows this order, it will make it through into your system. Ultimately we can then sync this order with your system of record like any of your other B2B orders.
+As long as their email follows this order, it will make it through.
 
-The subject line has to be your Convictional companyId. If you company ID was convictional-wholesale, the subject line needs to be: convictional-wholesale. This is how we route the order into your system.
+The subject line has to be your Convictional companyId.
 
 ## Example
 
 Here is an example of what it looks like when it's put together.
 
 Subject: convictional-wholesale
-Body:
 ```
 *ITEMS
 SKU=3
@@ -68,3 +72,7 @@ address: 123 St.
 extra: #101
 /ADDRESS
 ```
+
+## Support
+
+We support quick ordering like any other product. If you have any questions or want to setup blind quick ordering (ie. an email at your domain) and want some help, get in touch.
