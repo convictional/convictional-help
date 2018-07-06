@@ -10,15 +10,17 @@ Convictional offers an easy way for your partners to order from you via email. T
 
 ## Setup
 
-You can have your customers order using our email: orders@in.convictional.com or you can forward an email at your domain to that email (ie. forward orders@domain.com -> orders@in.convictional.com). Which one you use is up to you.
+You can have your customers order using our email: orders@in.convictional.com or you can forward an email at your domain to that email (ie. forward orders@domain.com -> orders@in.convictional.com).
 
-> You can even use your existing orders email. Anything not formatted correctly or from someone not connected to your Convictional account will just get dropped.
+> You can even use your existing orders email. Any emails from someone not connected to your account will be ignored by this service.
 
 ## Format
 
-> The subject line of the email has to be your Convictional companyId.
+The subject line of the email has to be your companyId. To confirm what your companyId is, visit [your settings page](https://app.convictional.com/settings).
 
-The format for quick orders contains two major sections: addresses and items. To start a section, type "*" then the name in block caps. To end it, type a forward slash ("/") and then the name in block caps.
+The format for the body of a quick order contains two major sections: addresses and items. 
+
+To start a section, type "*" then the name in block caps. To end it, type a forward slash ("/") and then the name in block caps.
 
 ```
 *ITEMS
