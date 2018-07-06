@@ -72,15 +72,15 @@ THIRDSKU=1
 *ADDRESS
 name=Customer Name
 company=Convictional, Inc.
-phone: 4165550000
-email: email@domain.com
-type: shipping
-city: Toronto
-zip: M5V 4B3
-state: Ontario
-country: Canada
-address: 123 St.
-extra: #101
+phone=4165550000
+email=email@domain.com
+type=shipping
+city=Toronto
+zip=M5V 4B3
+state=Ontario
+country=Canada
+address=123 St.
+extra=#101
 /ADDRESS
 ```
 
