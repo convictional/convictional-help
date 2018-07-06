@@ -75,4 +75,4 @@ extra: #101
 
 ## Support
 
-We support quick ordering like any other product. If you have any questions or want to setup blind quick ordering (ie. an email at your domain) and want some help, get in touch.
+We support quick ordering. If you have any questions or want to setup blind quick ordering (ie. an email at your domain) and want some help, get in touch.
