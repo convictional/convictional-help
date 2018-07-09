@@ -84,6 +84,20 @@ extra=#101
 /ADDRESS
 ```
 
+## Business Rules
+
+We apply a few business rules that are important to understand:
+
+* We make sure the order is verified using a secret key that only we have. This means you won't get inbound spam orders using our service.
+* We check the partner and price list. If a partner is not setup, we will ignore their emails. This is nice if you intend to use your existing orders email: anyone you don't want to have access wont.
+* We will check for a price list and if one exists, apply the wholesale price to each item on the order.
+* We will check the stock of each SKU on the order. If there is enough in stock, we'll add the requested amount. If there isn't, we'll add whatever you have. If you have none, we'll zero the item.
+
+So when you get an order using quick order, you can safely assume:
+
+* The partner is setup and has pricing attached to their account.
+* The items are in stock or if not the order is confirmed without them.
+
 ## Support & Feedback
 
 We support quick ordering. If you have any questions or want to setup blind quick ordering (ie. an email at your domain) and want some help, get in touch.
