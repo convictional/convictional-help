@@ -23,26 +23,26 @@ The format for the body of a quick order contains two major sections: addresses 
 To start a section, type "*" then the name in block caps. To end it, type a forward slash ("/") and then the name in block caps.
 
 ```
-*ITEMS
-/ITEMS
-*ADDRESS
-/ADDRESS
+<items>
+</items>
+<address>
+</address>
 ```
 
 To enter a SKU, enter the SKU, an equals sign and the quantity you want:
 
 ```
-*ITEMS
+<items>
 SKU123=7
 SKU432=2
 SKU567=4
-/ITEMS
+</items>
 ```
 
-To enter an address, enter the attribute, an equals sign and a value:
+To enter an address, enter the attribute, an equals sign and a value -- optional:
 
 ```
-*ADDRESS
+<address>
 name=(the name or company)
 company=(the company name)
 phone=(phone number)
@@ -54,7 +54,15 @@ state=(the province, state or territory name)
 country=(the country)
 address=(first address line)
 extra=(second address line)
-/ADDRESS
+</address>
+```
+
+To specify a partner (ordering on behalf of them, ie. sales rep) -- optional:
+
+```
+<partner>
+name@domain.com
+</partner>
 ```
 
 ## Example
@@ -63,13 +71,17 @@ extra=(second address line)
 
 **Subject**: convictional-wholesale
 ```
-*ITEMS
+<partner>
+name@domain.com
+</partner>
+
+<items>
 SKU=3
 ANOTHERSKU=2
 THIRDSKU=1
-/ITEMS
+</items>
 
-*ADDRESS
+<address>
 name=Customer Name
 company=Convictional, Inc.
 phone=4165550000
@@ -81,7 +93,7 @@ state=Ontario
 country=Canada
 address=123 St.
 extra=#101
-/ADDRESS
+</address>
 ```
 
 ## Business Rules
