@@ -10,6 +10,7 @@ author: Roger Kirkness
 
 * Moving changelog to public.
 * Updating the drop ship connection guide.
+* Updating the footer links for single posts.
 
 ## 1.6 - 2018-06-14
 
