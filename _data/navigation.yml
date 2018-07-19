@@ -34,6 +34,8 @@ docs:
         url: https://help.convictional.com/pricing-guide/
       - title: "Quick Ordering"
         url: https://help.convictional.com/quick-ordering/
+      - title: "Connecting: BigCommerce"
+        url: https://help.convictional.com/connecting-bigcommerce/
       - title: "Connecting: WooCommerce"
         url: https://help.convictional.com/connecting-woocommerce/
       - title: "Connecting: 3dCart"
