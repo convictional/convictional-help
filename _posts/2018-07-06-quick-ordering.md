@@ -4,8 +4,6 @@ date: 2018-07-06
 toc: true
 author: Roger Kirkness
 ---
-## Introduction
-
 Convictional offers an easy way for your partners to order from you via email. The format has to be just right in order for the Convictional Bot to understand what your partner wants on their order. This article covers how it works.
 
 ## Setup

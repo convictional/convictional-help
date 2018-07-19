@@ -4,7 +4,6 @@ date: 2018-02-13
 toc: true
 author: Chris Grouchy
 ---
-## Introduction
 Welcome to Convictional. Consider this your very own dropshipping hub. Convictional takes all of the pain away from dropshipping by making data sharing and billing happen automatically.
 
 Your wholesale supplier will automatically receive any orders containing their product(s). The wholesale supplier will then be able to drop ship the order to the end consumer on your behalf.
@@ -39,11 +38,11 @@ After your click Sign up, you will have to enter in your credit card information
 
 ## Step 3: Connect Your Store
 
-### For Shopify
+## For Shopify
 
 If you’re using Shopify, ensure that you have selected Shopify in the Platform dropdown. Then click Connect Shopify. From there, you will go through the standard app install process for a Shopify app. Depending on the wholesaler you are working with, the app may be unlisted, but that is okay and you will still control persmissions and have a secure connection to us.
 
-### For WooCommerce
+## For WooCommerce
 
 Convictional allows you to connect with WooCommerce so you can trade with your trading partners. This guide will help you get connected.
 
@@ -75,7 +74,7 @@ Then copy/paste the key and secret back into Convictional Settings:
 
 If you would like to get tracking information to share with your customers into your WooCommerce shop you will need to purchase and install the [WooCommerce Shipment Tracking](https://docs.woocommerce.com/document/shipment-tracking/) plugin.
 
-### For BigCommerce
+## For BigCommerce
 
 If you’re using BigCommerce, ensure that you have selected BigCommerce in the Platform dropdown and provided the URL for your store to us. You will need to provide the Client ID, Client Secret and Access Token for an API account so that we can connect with your store and trade with you. To get that information, here is an official document explaining how this works: [help document](https://developer.bigcommerce.com/api/#obtaining-oauth-tokens)
 
@@ -126,4 +125,4 @@ With Apruve, your wholesaler will get paid for the order when it has been shippe
 
 Once you set up an account, you can enter in your Apruve Merchant ID and Apruve API Key. 
 
-Note that in order to use Convictional as a retailer, you must either have a credit card in the system (via Stripe) or an account set up with Apruve. 
+Note that in order to use Convictional as a retailer, you must either have a credit card in the system (via Stripe) or an account set up with Apruve.

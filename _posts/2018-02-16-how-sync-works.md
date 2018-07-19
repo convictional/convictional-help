@@ -4,7 +4,6 @@ date: 2018-02-16
 toc: true
 author: Roger Kirkness
 ---
-# Introduction
 Convictional automates a lot of things that you and your customers might be used to doing manually. It can be helpful to understand exactly what Convictional is doing with your information in order to make it easier for you to trade online. This is an overview of how the syncing relationships that we maintain work and what you can expect from us.
 
 ![syncing](https://github.com/rogerkirkness/convictional-help/blob/master/assets/images/syncing.png?raw=true)
@@ -65,7 +64,9 @@ When you activate overselling protection, the following will happen: when an ord
 This all happens automatically. It takes about two seconds from the time the order is placed to the time we can update the first SKU in all the partner stores, and another one second for each additional item on a given order. The goal is to ensure that all partners have constantly updated and current inventory counts for the SKUs that you fulfill on their behalf, and that as a result you can prevent oversold items.
 
 ## Billing
+
 We automate the billing process once a day. That means regardless of which gateway (ie. Apruve, Stripe) you choose for your billing of customers, we will invoice them or charge their card once a day. There is no way to manually trigger this, to avoid double/overcharging.
 
 ## Conclusion
+
 Convictional makes it easy to manage trading relationships and share information but we feel strongly that our customers should be empowered to understand and manage the syncing process.

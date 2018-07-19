@@ -4,8 +4,6 @@ date: 2018-07-19
 toc: true
 author: Roger Kirkness
 ---
-# Introduction
-
 Convictional allows you to connect with BigCommerce so you can trade with your trading partners. This guide will help you get connected.
 
 ## Step One

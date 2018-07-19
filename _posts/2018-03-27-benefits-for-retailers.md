@@ -4,8 +4,6 @@ date: 2018-03-27
 toc: true
 author: Izzy Bonnici
 ---
-# Introduction
-
 If you’re seeing this, it’s probably because one of your suppliers wants to introduce you to an integration that will make it easier for you to **sell their products** and **grow your business**.
 
 ## What It Is

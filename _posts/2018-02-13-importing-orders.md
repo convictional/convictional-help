@@ -4,12 +4,12 @@ date: 2018-02-13
 toc: true
 author: Roger Kirkness
 ---
-## Introduction
 To import orders via CSV, please use the following format:
 code,partner,date,sku,quantity,name,company,
 city,zip,state,country,addressOne,addressTwo
 
 ## Elements
+
 * Code (required): the order number in source system
 * Partner: the company this order is from
 * Date: the date of the order in ISO8601 format
@@ -25,6 +25,7 @@ city,zip,state,country,addressOne,addressTwo
 * Address Two (Optional): the second address line
 
 ## Requirements
+
 * Do not include headers in your CSV file.
 * If the upload fails, double check the format.
 * Leave empty spaces for optional fields (ie. ",,,")
