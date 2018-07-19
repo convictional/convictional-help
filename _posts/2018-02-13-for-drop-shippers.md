@@ -37,7 +37,7 @@ Note: if you are on Shopify, please copy/paste your admin URL and not your store
 
 After your click Sign up, you will have to enter in your credit card information. This will create an account for your wholesaler to bill you in the future for orders that contain their products.
 
-## Step 3: Connect Your Store in Settings
+## Step 3: Connect Your Store
 
 ### For Shopify
 
@@ -45,9 +45,21 @@ If you’re using Shopify, ensure that you have selected Shopify in the Platform
 
 ### For WooCommerce
 
-If you’re using WooCommerce, you will need to provide the WooCommerce Consumer Key and the Secret Key. These can be easily found (or generated) in your WooCommerce admin under Settings > API. Here is the [WooCommerce documentation explaining how this works](https://github.com/woocommerce/woocommerce/wiki/Getting-started-with-the-REST-API#generate-keys).
+If you’re using WooCommerce, you will need to provide the WooCommerce Consumer Key and the Secret Key. These can be easily found (or generated) in your WooCommerce admin under Settings > API. 
+Convictional needs Read/Write permissions from you when you create your API Account. Login to your WooCommerce store, go to Advanced > REST API:
+![WooCommerce](https://github.com/rogerkirkness/convictional-help/blob/master/assets/images/woo-1.png?raw=true)
 
-If you would like to get tracking information to share with your customers into your WooCommerce shop you will need to purchase and install the [WooCommerce Shipment Tracking plugin](https://docs.woocommerce.com/document/shipment-tracking/).
+Once you grant Read/Write permissions, you will see some strings:
+![WooCommerce](https://github.com/rogerkirkness/convictional-help/blob/master/assets/images/woo-2.png?raw=true)
+
+Then copy/paste the key and secret you get back into Convictional:
+![WooCommerce](https://github.com/rogerkirkness/convictional-help/blob/master/assets/images/woo-3.png?raw=true)
+
+Once you have done this, we will be able to sync products and inventory.
+
+#### Note about WooCommerce Shipment Tracking
+
+If you would like to get tracking information to share with your customers into your WooCommerce shop you will need to purchase and install the [WooCommerce Shipment Tracking](https://docs.woocommerce.com/document/shipment-tracking/) plugin.
 
 ### For BigCommerce
 
