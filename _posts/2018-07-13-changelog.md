@@ -11,6 +11,7 @@ author: Roger Kirkness
 * Moving changelog to public.
 * Updating the drop ship connection guide.
 * Updating the footer links for single posts.
+* Making things easier to find SEO wise.
 
 ## 1.6 - 2018-06-14
 
