@@ -12,6 +12,7 @@ author: Roger Kirkness
 * Updating the drop ship connection guide.
 * Updating the footer links for single posts.
 * Making things easier to find SEO wise.
+* Moving our status page over here.
 
 ## 1.6 - 2018-06-14
 
