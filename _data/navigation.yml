@@ -44,6 +44,8 @@ docs:
         url: https://help.convictional.com/products-csv-uploads/
       - title: "Importing partners"
         url: https://help.convictional.com/partners-csv-uploads/
+      - title: "Status"
+        url: https://help.convictional.com/status/
   - title: "For Retailers"
     children:
       - title: "Benefits for partners"
